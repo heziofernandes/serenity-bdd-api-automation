@@ -14,7 +14,7 @@ automation/spotify/utils/ArtistUtil.java
  automation.spotify.utils.ArtistUtil
 automation/spotify/steps/AlbumStepDefinitions.java
  automation.spotify.steps.AlbumStepDefinitions
-automation/spotify/utils/CategoryUtil.java
- automation.spotify.utils.CategoryUtil
 automation/spotify/acceptancetests/AcceptanceTestSuite.java
  automation.spotify.acceptancetests.AcceptanceTestSuite
+automation/spotify/utils/CategoryUtil.java
+ automation.spotify.utils.CategoryUtil

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Categories" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-27T19:54:33" hostname="DESKTOP-EDEA03E" time="1.14">
+<testsuite name="Categories" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-27T20:22:04" hostname="DESKTOP-EDEA03E" time="1.251">
   <properties/>
-  <testcase name="Search for Album/Music by Categories" classname="Categories" time="0.63"/>
-  <testcase name="Search for Categories must be larger than Zero" classname="Categories" time="0.505"/>
+  <testcase name="Search for Album/Music by Categories" classname="Categories" time="0.67"/>
+  <testcase name="Search for Categories must be larger than Zero" classname="Categories" time="0.576"/>
   <system-out><![CDATA[?[32m.?[0m?[32m.?[0mHTTP/1.1 200 OK
 content-type: application/json; charset=utf-8
 cache-control: public, max-age=600
@@ -15,7 +15,7 @@ access-control-max-age: 604800
 content-encoding: gzip
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Sat, 27 Mar 2021 19:54:32 GMT
+date: Sat, 27 Mar 2021 20:22:03 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: clear
@@ -81,7 +81,7 @@ access-control-max-age: 604800
 content-encoding: gzip
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Sat, 27 Mar 2021 19:54:32 GMT
+date: Sat, 27 Mar 2021 20:22:03 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: clear
@@ -147,7 +147,7 @@ access-control-max-age: 604800
 content-encoding: gzip
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Sat, 27 Mar 2021 19:54:32 GMT
+date: Sat, 27 Mar 2021 20:22:03 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: clear

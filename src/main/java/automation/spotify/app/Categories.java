@@ -1,7 +1,5 @@
 package automation.spotify.app;
 
-import com.sun.tools.javac.jvm.Items;
-
 import java.util.ArrayList;
 
 public class Categories {
@@ -18,12 +16,8 @@ public class Categories {
         return "5";
     }
 
-    public static String getCategory() {
-        return "brazilian";
-    }
-
-    public static ArrayList getCategories() {
-        ArrayList categories = new ArrayList<Items>();
+    public static ArrayList<String> getCategories() {
+        ArrayList<String> categories = new ArrayList<String>();
         categories.add("decades");
         categories.add("hiphop");
         categories.add("in_the_car");
