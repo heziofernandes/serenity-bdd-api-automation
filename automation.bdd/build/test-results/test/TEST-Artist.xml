@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Artist" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-27T01:51:47" hostname="DESKTOP-EDEA03E" time="1.774">
-  <properties/>
-  <testcase name="Search for Artist" classname="Artist" time="0.575"/>
-  <testcase name="Invalid search for an Artist" classname="Artist" time="0.566"/>
-  <testcase name="Search for a Non-existent artist" classname="Artist" time="0.621"/>
-  <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

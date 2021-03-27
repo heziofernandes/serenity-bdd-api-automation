@@ -14,19 +14,19 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          key: v1-gradle-wrapper-{{ checksum "automation.bdd/gradle/wrapper/gradle-wrapper.properties" }}
+          key: v1-gradle-wrapper-{{ checksum "gradle/wrapper/gradle-wrapper.properties" }}
       - restore_cache:
-          key: v1-gradle-cache-{{ checksum "automation.bdd/build.gradle" }}
+          key: v1-gradle-cache-{{ checksum "build.gradle" }}
 
       - run: gradle dependencies
 
       - save_cache:
           paths:
             - ~/.gradle/wrapper
-          key: v1-gradle-wrapper-{{ checksum "automation.bdd/gradle/wrapper/gradle-wrapper.properties" }}
+          key: v1-gradle-wrapper-{{ checksum "gradle/wrapper/gradle-wrapper.properties" }}
       - save_cache:
           paths:
             - ~/.gradle/caches
-          key: v1-gradle-cache-{{ checksum "automation.bdd/build.gradle" }}
+          key: v1-gradle-cache-{{ checksum "build.gradle" }}
 
       - run: gradle test

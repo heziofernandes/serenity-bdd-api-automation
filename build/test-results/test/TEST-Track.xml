@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Track" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-27T19:43:54" hostname="DESKTOP-EDEA03E" time="1.148">
+  <properties/>
+  <testcase name="Search for Track" classname="Track" time="0.665"/>
+  <testcase name="Invalid search for a Track" classname="Track" time="0.475"/>
+  <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

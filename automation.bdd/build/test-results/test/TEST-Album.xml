@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Album" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-27T01:51:39" hostname="DESKTOP-EDEA03E" time="8.458">
-  <properties/>
-  <testcase name="Search for Album" classname="Album" time="8.458"/>
-  <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
