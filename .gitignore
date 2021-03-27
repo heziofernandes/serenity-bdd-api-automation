@@ -19,7 +19,7 @@
 *.tar.gz
 *.rar
 
-#default
+# Default
 target/
 build
 .gradle
