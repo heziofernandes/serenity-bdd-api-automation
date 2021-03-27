@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Album" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-27T19:43:44" hostname="DESKTOP-EDEA03E" time="7.898">
+<testsuite name="Album" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-27T19:54:22" hostname="DESKTOP-EDEA03E" time="8.429">
   <properties/>
-  <testcase name="Search for Album" classname="Album" time="7.898"/>
+  <testcase name="Search for Album" classname="Album" time="8.429"/>
   <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

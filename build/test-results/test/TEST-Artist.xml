@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Artist" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-27T19:43:52" hostname="DESKTOP-EDEA03E" time="1.791">
+<testsuite name="Artist" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-27T19:54:31" hostname="DESKTOP-EDEA03E" time="1.62">
   <properties/>
-  <testcase name="Search for Artist" classname="Artist" time="0.591"/>
-  <testcase name="Invalid search for an Artist" classname="Artist" time="0.554"/>
-  <testcase name="Search for a Non-existent artist" classname="Artist" time="0.633"/>
+  <testcase name="Search for Artist" classname="Artist" time="0.537"/>
+  <testcase name="Invalid search for an Artist" classname="Artist" time="0.545"/>
+  <testcase name="Search for a Non-existent artist" classname="Artist" time="0.528"/>
   <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
