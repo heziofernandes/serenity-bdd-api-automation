@@ -1,0 +1,10 @@
+automation/spotify/app/Album.java
+ automation.spotify.app.Album
+automation/spotify/app/Spotify.java
+ automation.spotify.app.Spotify
+automation/spotify/app/Categories.java
+ automation.spotify.app.Categories
+automation/spotify/app/Artist.java
+ automation.spotify.app.Artist
+automation/spotify/app/Track.java
+ automation.spotify.app.Track

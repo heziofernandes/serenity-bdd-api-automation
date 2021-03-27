@@ -1,0 +1,20 @@
+automation/spotify/steps/ArtistStepsDefinitions.java
+ automation.spotify.steps.ArtistStepsDefinitions
+automation/spotify/steps/TrackStepsDefinitions.java
+ automation.spotify.steps.TrackStepsDefinitions
+automation/spotify/utils/SpotifyUtil.java
+ automation.spotify.utils.SpotifyUtil
+automation/spotify/utils/TrackUtil.java
+ automation.spotify.utils.TrackUtil
+automation/spotify/utils/AlbumUtil.java
+ automation.spotify.utils.AlbumUtil
+automation/spotify/steps/CategoryStepsDefinitions.java
+ automation.spotify.steps.CategoryStepsDefinitions
+automation/spotify/utils/ArtistUtil.java
+ automation.spotify.utils.ArtistUtil
+automation/spotify/steps/AlbumStepDefinitions.java
+ automation.spotify.steps.AlbumStepDefinitions
+automation/spotify/utils/CategoryUtil.java
+ automation.spotify.utils.CategoryUtil
+automation/spotify/acceptancetests/AcceptanceTestSuite.java
+ automation.spotify.acceptancetests.AcceptanceTestSuite

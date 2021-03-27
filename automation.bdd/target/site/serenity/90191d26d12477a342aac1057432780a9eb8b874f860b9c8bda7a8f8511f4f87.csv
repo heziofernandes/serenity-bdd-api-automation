@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Artist","Find an Artist","PENDING","2021-03-26T23:19:25.1604967Z[Europe/London]","0.0","0.08"
+"Artist","Invalid search for an Artist","PENDING","2021-03-26T23:19:25.263464Z[Europe/London]","0.0","0.05"
+"Artist","Search for a Non-existent artist","PENDING","2021-03-26T23:19:25.3484362Z[Europe/London]","0.0","0.05"

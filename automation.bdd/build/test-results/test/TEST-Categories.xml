@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Categories" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-27T01:51:50" hostname="DESKTOP-EDEA03E" time="1.771">
+  <properties/>
+  <testcase name="Search for Album/Music by Categories" classname="Categories" time="1.033"/>
+  <testcase name="Search for Categories must be larger than Zero" classname="Categories" time="0.727"/>
+  <system-out><![CDATA[?[32m.?[0m?[32m.?[0mHTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+cache-control: public, max-age=600
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+content-encoding: gzip
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+date: Sat, 27 Mar 2021 01:51:49 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+{
+    "categories": {
+        "href": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=5&limit=3",
+        "items": [
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/decades",
+                "icons": [
+                    {
+                        "height": null,
+                        "url": "https://t.scdn.co/images/b611cf5145764c64b80e91ccd5f357c8",
+                        "width": null
+                    }
+                ],
+                "id": "decades",
+                "name": "Décadas"
+            },
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/hiphop",
+                "icons": [
+                    {
+                        "height": 274,
+                        "url": "https://t.scdn.co/media/original/hip-274_0a661854d61e29eace5fe63f73495e68_274x274.jpg",
+                        "width": 274
+                    }
+                ],
+                "id": "hiphop",
+                "name": "Hip Hop"
+            },
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/in_the_car",
+                "icons": [
+                    {
+                        "height": null,
+                        "url": "https://t.scdn.co/images/57017d435c344bb28efba325b7c9e7c6.jpeg",
+                        "width": null
+                    }
+                ],
+                "id": "in_the_car",
+                "name": "No carro"
+            }
+        ],
+        "limit": 3,
+        "next": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=8&limit=3",
+        "offset": 5,
+        "previous": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=2&limit=3",
+        "total": 39
+    }
+}
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+cache-control: public, max-age=600
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+content-encoding: gzip
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+date: Sat, 27 Mar 2021 01:51:49 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+{
+    "categories": {
+        "href": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=5&limit=3",
+        "items": [
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/decades",
+                "icons": [
+                    {
+                        "height": null,
+                        "url": "https://t.scdn.co/images/b611cf5145764c64b80e91ccd5f357c8",
+                        "width": null
+                    }
+                ],
+                "id": "decades",
+                "name": "Décadas"
+            },
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/hiphop",
+                "icons": [
+                    {
+                        "height": 274,
+                        "url": "https://t.scdn.co/media/original/hip-274_0a661854d61e29eace5fe63f73495e68_274x274.jpg",
+                        "width": 274
+                    }
+                ],
+                "id": "hiphop",
+                "name": "Hip Hop"
+            },
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/in_the_car",
+                "icons": [
+                    {
+                        "height": null,
+                        "url": "https://t.scdn.co/images/57017d435c344bb28efba325b7c9e7c6.jpeg",
+                        "width": null
+                    }
+                ],
+                "id": "in_the_car",
+                "name": "No carro"
+            }
+        ],
+        "limit": 3,
+        "next": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=8&limit=3",
+        "offset": 5,
+        "previous": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=2&limit=3",
+        "total": 39
+    }
+}
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+cache-control: public, max-age=600
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+content-encoding: gzip
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+date: Sat, 27 Mar 2021 01:51:49 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+{
+    "categories": {
+        "href": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=5&limit=3",
+        "items": [
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/decades",
+                "icons": [
+                    {
+                        "height": null,
+                        "url": "https://t.scdn.co/images/b611cf5145764c64b80e91ccd5f357c8",
+                        "width": null
+                    }
+                ],
+                "id": "decades",
+                "name": "Décadas"
+            },
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/hiphop",
+                "icons": [
+                    {
+                        "height": 274,
+                        "url": "https://t.scdn.co/media/original/hip-274_0a661854d61e29eace5fe63f73495e68_274x274.jpg",
+                        "width": 274
+                    }
+                ],
+                "id": "hiphop",
+                "name": "Hip Hop"
+            },
+            {
+                "href": "https://api.spotify.com/v1/browse/categories/in_the_car",
+                "icons": [
+                    {
+                        "height": null,
+                        "url": "https://t.scdn.co/images/57017d435c344bb28efba325b7c9e7c6.jpeg",
+                        "width": null
+                    }
+                ],
+                "id": "in_the_car",
+                "name": "No carro"
+            }
+        ],
+        "limit": 3,
+        "next": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=8&limit=3",
+        "offset": 5,
+        "previous": "https://api.spotify.com/v1/browse/categories?locale=pt_br&offset=2&limit=3",
+        "total": 39
+    }
+}
+?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

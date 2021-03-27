@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Artist","Search for Artist","FAILURE","2021-03-27T01:16:43.4343887Z[Europe/London]","0.0","0.87"
+"Artist","Invalid search for an Artist","FAILURE","2021-03-27T01:16:44.3562562Z[Europe/London]","0.0","0.73"
+"Artist","Search for a Non-existent artist","FAILURE","2021-03-27T01:16:45.1493566Z[Europe/London]","0.0","0.59"
